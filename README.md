@@ -1,4 +1,6 @@
 # SQL
+SQL is a standard language for storing, manipulating and retrieving data in databases. SQL (Structured Query Language) is used to perform operations on the records stored in the database, such as updating records, inserting records, deleting records, creating and modifying database tables, views, etc. SQL is not a database system, but it is a query language.
+
 ## Data Type
 ---
 | Data Type                          | Description                                                |  Use                                     
